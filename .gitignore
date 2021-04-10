@@ -5,7 +5,8 @@ build/*
 MANIFEST
 .idea/*
 .cache
-
+*.swp
+.DS_Store
 # Sphinx documentation
 docs/build/
 
